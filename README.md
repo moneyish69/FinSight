@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Full Stack AI Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI Tutorial 🔥🔥
 ## https://youtu.be/egS6fnZAdzk
 
@@ -22,3 +23,6 @@ RESEND_API_KEY=
 
 ARCJET_KEY=
 ```
+=======
+# FinSight
+>>>>>>> dfceec65d625fc0e2428451ab96443ff72b77407
